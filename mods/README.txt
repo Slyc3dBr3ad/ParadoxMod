@@ -98,9 +98,11 @@ around the size of an island, hence the low pitch cry.
 
 Great Tusks (Donphan) - Donphan
 Scream Tail (Jigglypuff) - Ledyba & Ledian
-Flutter Mane (Misdreavus) - Misdreavus & Mismagius (M)
-Brute Bonnet (Amoonguss) - Paras & Parasect (M)
-Sandy Shocks (Magneton) - Tentacool & Tentacruel
+Flutter Mane (Misdreavus) - Misdreavus & Mismagius
+Brute Bonnet (Amoonguss) - Paras & Parasect
+Sandy Shocks (Magneton) - Krabby & Kingler
+Slither Wing (Volcorona) - Spinarak & Ariados
+Koridon (Cyclizar) - Volcorona
 
 ------------------------------------------------------------------------------------
 [-Custom Ancient Paradox Pokemon-]
@@ -116,13 +118,5 @@ Lost Carrier (Lapras) - Lapras
 
 For the purposes of not-entirely-removing-breeding, each Pokemon has the Egg Group
 of their modern counterpart. 
-
-Also I opted to replace Volcarona with Koridon instead of Slither Wing for 3 reasons
-1: According to Scarlet, Slither Wing is common  while Koridon is extemely rare.
-This is also reflected in Scarlet's gameplay.
-2: Fighting Koridon in the Ancient Ruins is more climactic than fighting a common
-Pokemon.
-3: My Slither Wing turned out ugly. It would 200% dissapoint people lol. 
-
 
 ------------------------------------------------------------------------------------

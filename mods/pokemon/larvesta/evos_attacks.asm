@@ -1,0 +1,16 @@
+;	db EVOLVE_ITEM, THUNDERSTONE, RAICHU
+	db 0 ; no more evolutions
+	db 1, DOUBLE_KICK
+	db 1, FLAME_WHEEL
+	db 1, ROCKCLIMB
+	db 1, FLY
+	db 12, COUNTER
+	db 16, DRAGON_RAGE
+	db 22, SUBMISSION
+	db 22, HIGH_JUMP_KICK
+	db 30, FLAMETHROWER
+	db 36, BELLY_DRUM
+	db 42, CROSS_CHOP
+	db 61, MACH_PUNCH
+	db 63, FIRE_BLAST
+	db 0 ; no more level-up moves
